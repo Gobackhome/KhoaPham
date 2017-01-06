@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <% mang.forEach((idx,item)=>{%>
+      <h1><%- idx %></h1>
+    <% }) %>
+
+    <%= phepTinh.ketqua() %>
+      <%= mangNguoi.forEach(e=> {%>
+      <h2> <%= e.getGioiThieu() %> </h2>
+      <%}) %>
+  </body>
+</html>
