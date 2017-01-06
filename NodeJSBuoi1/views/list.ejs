@@ -5,13 +5,13 @@
     <title></title>
   </head>
   <body>
-    <% mang.forEach((idx,item)=>{%>
-      <h1><%- idx %></h1>
+    <% mang.forEach(function(item){%>
+      <h1><%= item %></h1>
     <% }) %>
 
     <%= phepTinh.ketqua() %>
-      <%= mangNguoi.forEach(e=> {%>
-      <h2> <%= e.getGioiThieu() %> </h2>
+      <% mangNguoi.forEach(function(e) {%>
+        <h2> <%= e.getGioiThieu() %> </h2>
       <%}) %>
   </body>
 </html>
