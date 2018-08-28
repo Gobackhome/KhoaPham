@@ -21,7 +21,6 @@ Lê Xuân Việt,Media Mart
 Phạm Xuân Tùng,Media Mart
 Vũ Đức Thắng,PICO
 Trần Trọng Kha,PICO
-Hoàng Đình Đạt,PICO
 Nguyễn Quang Đức,PICO
 Bùi Thị Thanh Hải,VHC
 Phạm Văn Khoa,VHC
