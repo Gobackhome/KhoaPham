@@ -1,0 +1,33 @@
+Name,cuahang
+Nguyễn Văn Chung,ĐMX
+Lê Bá Hoàng,ĐMX
+Giang Văn Hà,ĐMX
+Phạm Văn Trường,ĐMX
+Lê Hùng Minh,ĐMX
+Nguyễn Tuấn Anh,ĐMX
+Nguyễn Hữu Sơn,ĐMX
+Nguyễn Quang Hưng,ĐMX
+Nguyễn Phi Quyền,ĐMX
+Lê Tiến Địn,ĐMX
+Phùng Thị Hồng Nhung,ĐMX
+Nguyễn Thị Khiêm,ĐMX
+Nguyễn Mạnh,ĐMX
+Lê Hùng Anh,ĐMX
+Nguyễn Khắc Năng,ĐMX
+Đặng Xuân Tùng,ĐMX
+Nguyễn Dụng Phòng,ĐMX
+Nguyễn Hồng Tuyên,ĐMX
+Đào Duy Vũ,ĐMX
+Mai Hùng Cường,ĐMX
+Dương Anh Tuấn,Media Mart
+Lê Xuân Việt,Media Mart
+Phạm Xuân Tùng,Media Mart
+Vũ Đức Thắng,PICO
+Trần Trọng Kha,PICO
+Hoàng Đình Đạt,PICO
+Nguyễn Quang Đức,PICO
+Bùi Thị Thanh Hải,VHC
+Phạm Văn Khoa,VHC
+Nguyễn Triệu Dương,VHC
+Ma Văn Hải,VIET HAN
+Đinh Thị Thao,VIET HAN
