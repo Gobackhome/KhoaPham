@@ -49,8 +49,6 @@ Trung Hải Sơn,HANG THONG
 Nguyễn Thị Thu,HANG THONG
 Đặng Hữu Phan Sơn,HONG DAT
 Nguyễn Thị Huyền,NGOC HUYEN
-Nguyễn Thị Hương Lan,Nguyễn Kim
-Trịnh Gia Khánh,Nguyễn Kim
 Võ Thị Phương Thu,PHU THU
 Đặng Văn Lợi,QUANG LOI
 Nguyễn Thị Ngọc Hương,Vietronimex
