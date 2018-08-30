@@ -1,7 +1,6 @@
 Name,cuahang
 Nguyễn Việt Phương,Cao Phong
 Trần Phước,Cao Phong
-Nguyễn Tấn Phước,ĐMX
 Trương Lập Vinh,GIA THANH
 Trung Hải Sơn,HANG THONG
 Nguyễn Thị Thu,HANG THONG
