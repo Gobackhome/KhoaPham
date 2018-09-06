@@ -21,11 +21,9 @@ Ngô Thị Mỹ Dung,BR-VT
 Nguyễn Thanh Thảo,LONG AN
 Trần Văn Nhẩn,TRA VINH
 Nguyễn Thanh Vũ,Vinh Long
-Cam Thời Tựu,Can Tho
 Trần Văn Luân,Ca Mau
 Nguyễn Phước Sơn,LONG KHANH
 Nguyễn Ru Bi,Binh Phuoc - Binh Thuan
-Lý Minh Hòa,HCM
 Phạm Quốc Đạt,TRA VINH
 Hoàng Thanh Phong,HO CHI MINH
 Nguyễn Phước Khải,HO CHI MINH
@@ -38,7 +36,6 @@ Lê Văn Dũng,HCM
 Nguyễn Tiến Sơn,HCM
 Lê Quốc Anh,HO CHI MINH
 Dương Thế Truyền,TAY NINH
-Vương Hữu Nghĩa,HO CHI MINH
 Lê Quốc Khương,HO CHI MINH
 Trần Thị Kim Thoa,AN GIANG
 Trần Hồng Hạnh,TRA VINH
@@ -50,7 +47,6 @@ Lê Thị Thắm,KIEN GIANG
 Mai Kim Phượng,CA MAU
 Trương Thị Thủy,HO CHI MINH
 Trần Ngọc Phúc,HO CHI MINH
-Nguyễn Thị Ngọc Như,HO CHI MINH
 Trần Ngọc Phương Vy,TIEN GIANG
 Nguyễn Thị Bích Chăm,LONG AN
 Văn Thị Thu Hà,TIEN GIANG
@@ -72,7 +68,6 @@ Bùi Trung Nguyên,BA RIA
 Nguyễn Ngọc Bảo Hoàng,NINH THUAN
 Nguyễn Hoàng Anh,Bien Hoa
 Huỳnh Hải Đăng,CAN THO
-Nguyễn Hoàng Sơn,HO CHI MINH
 Đinh Quang Tú,HO CHI MINH
 Dương Nguyễn Trung tín,HO CHI MINH
 Huỳnh Trung Cường,HO CHI MINH
@@ -101,11 +96,8 @@ Dương Anh Thư,HO CHI MINH
 Trần Thị Anh Đào,HO CHI MINH
 Trần Trung Dũng,Can Tho
 Dương Kim Lân,Vinh Long
-Dương Hải Long,Can Tho
-Lò Hoàng Sơn,HO CHI MINH
 Nguyễn Thanh Tài,DONG NAI
 Nguyễn Chí Công,CAN THO
-Nguyễn Tấn Lộc,HO CHI MINH
 Trần Trung Hậu,BAC LIEU
 Nguyễn Trường Nam,HO CHI MINH
 Đặng Thành Đạt,HO CHI MINH
@@ -155,12 +147,10 @@ Phạm Thanh Phong,HO CHI MINH
 Đặng Hữu Anh,HO CHI MINH
 TRẦN VINH QUANG,HO CHI MINH
 Nguyễn Thanh Hùng,HCM
-Trần Đại,CAN THO
 Cao Phát Tài,BEN TRE
 Trần Ngọc Thuận,BRVT
 Phan Khoa,Binh Phuoc
 Nguyễn Duy Trí Thức,BINH DUONG
-Trương Hoài Thanh,HCM
 Nguyễn Phát Minh,Binh Duong
 La Vũ Linh,HO CHI MINH
 Nguyễn Thị Ái Nhi,AN GIANG
@@ -182,7 +172,6 @@ Nguyễn Thị Thu Thủy,BEN TRE
 Nguyễn Ngọc Hoài Vy,DONG NAI
 Dương Huỳnh Ngọc Vân,HO CHI MINH
 Nguyễn Thị Minh Hoàng,HO CHI MINH
-Lý Kim Long,Bien Hoa
 Dương Trung Hiếu,HCM
 Nguyễn Nhật Quang,VINH LONG
 Từ Bảo Duy,KIEN GIANG
@@ -200,7 +189,6 @@ Phạm Quốc Toàn,Vĩnh Long, Trà Vinh
 Tô Dương Quốc Huy,Cần Thơ + An Giang 1
 Nguyễn Hữu Hưng,DONG NAI
 Nguyễn Tuấn Kiệt,BINH DUONG
-Võ Văn Vần,HCM
 Nguyễn Thành Đạt,HO CHI MINH
 Lê văn Tráng,BR-VT
 Lê thị Phương Dung,DONG NAI
