@@ -1,211 +1,88 @@
 Name,cuahang
-Nguyễn Thị Mỹ Hạnh, Hà Nội (PS)
-Trần Thị Thu Hà, Hà Nội (PS)
-Nguyễn Thị Huyền Anh, Hà Nội (PS)
-Nguyễn Thị Lan Anh, Hà Nội (PS)
-Bùi Thị Khuyên, Hà Nội (PS)
-Nguyễn Thị Yến, Hà Nội (PS)
-Nông Thị Nhẫn, Hà Nội (PS)
-Trần Thị Thanh, Hà Nội (PS)
-Đỗ Thị Thương Huyền, Hà Nội (PS)
-Vũ Thùy Dương, Hà Nội (PS)
-Hà Ngọc Ánh, Hà Nội (PS)
-Lê Thị Hồng Nhung, Hà Nội (PS)
-Nguyễn Thị Diệp, Hà Nội (PS)
-Vũ Thị Thuận, Hà Nội (PS)
-Phạm Đình Hạnh, Hà Nam (RS)
-Trần Quang Long, Hà Nội (PS)
-Nguyễn Văn Tường, Hà Nội (PS)
-Nguyễn Thành Công, Hà Nội (PS)
-Nguyễn Văn Linh, North (SaleRep)
-Đào Trọng Khoa, Hà Nội (RS)
-Phạm Quang Tú, Hà Nội (PS)
-Lê Thanh Tùng, Hà Nội (PS)
-Nguyễn Hữu Tú, Hà Nội (RS)
-Lê Tự Tùng, Hà Nội (RS)
-Trần Minh Thỏa, Hà Nội (RS)
-Thái Tùng Lâm, Hà Nội (PS)
-Nguyễn Văn Đạt, Hà Nội (PS)
-Nguyễn Trung Đức, Hà Nội (PS)
-Nguyễn Duy Tuấn, Bắc Ninh (SaleRep)
-Hoàng Quốc Đạt, Hà Nội (PS)
-Nguyễn Văn Phúc, Hà Nội (PS)
-Trần Văn Đức, Hà Nội (PS)
-Nguyễn Thị Hiền, Hà Nội (PS)
-Trần Thị Duyên, Hưng Yên (PS)
-Trần Thị Thanh Bình, Hà Nội (PS)
-Nguyễn Thị Trang, Hà Nội (PS)
-Nguyễn Thị Thanh Tâm, Hà Nội (PS)
-Bùi Thị Hoa, Hà Nội (PS)
-Trần Huyền Trang, Hà Nội (PS)
-Phan Trà My, Hà Nội (PS)
-Nguyễn Tuyết Anh, Hà Nội (PS)
-Đinh Thị Hoài Phương, Hà Nội (PS)
-Nguyễn Huyền Ngọc, Hà Nội (PS)
-Vũ Thị Khánh Ly, Hà Nội (PS)
-Đặng Thị Hường, Hà Nội (PS)
-Nguyễn Bảo Anh, Hà Nội (PS)
-Nguyễn Hồng Nhung, Hà Nội (PS)
-Lê Duy Huân, Hà Nội (PS)
-Trần Hồng Minh, Hà Nội (PS)
-Hoàng Huy Lợi, Hà Nội (RS)
-Đỗ Tiến Dũng, Hà Nội (SaleRep)
-Hoàng Mai Khanh, Ha Giang Tuyen Quang (SaleRep)
-Đinh Ngọc Dương, Ninh Bình Hà Nam (SaleRep)
-Nguyễn Đức Hưng, Hà Nội (PS)
-Trần Trung Kiên, Hà Nội (PS)
-Mai Hoàng Dương, Hà Nội (PS)
-Lê Văn Lâm, Thái Nguyên (SaleRep)
-Phạm Lê Minh, Ha Noi 3 Phu Tho 2 (SaleRep)
-Ngô Quang Nam, Hà Nội (PS)
-Nguyễn Trí Dũng, Hà Nội (PS)
-Nguyễn Tuấn Long, Hà Nội (PS)
-Hoàng Huy Tùng,  Yen Bai Lao Cai Lai Chau (SaleRep)
-Lê Doãn Thắng, Hưng Yên (PS)
-Lê Hồng Phúc, Hưng Yên (PS)
-Hoàng Chính Nghĩa, Hải Phóng (SaleRep)
-Nguyễn Ngọc Tuyền, Thái Bình (SaleRep)
-Trần Quang Đạo, Hà Nội (RS)
-Đỗ Đức Đông, Hưng Yên (PS)
-Đặng Văn Vượng, Hà Nội (PS)
-Nguyễn Thị Dung, Ninh Bình (PS)
-Chu Thị Mỹ Linh, Thanh Hoá (PS)
-Nguyễn Thị Huyền, Thanh Hoá (PS)
-Nguyễn Thị Huyền, Quảng Ninh (PS)
-Nguyễn Ngọc Mài, Quảng Ninh (PS)
-Trần Minh Phượng, Quảng Ninh (PS)
-Đỗ Thị Trang, Thái Bình (PS)
-Nguyễn Thị Thanh Nga, Nam Định (PS)
-Đinh Thị Tươi, Thái Bình (PS)
-Trịnh Thị Điểm, Nam Định (PS)
-Trần Danh Ngọc, Hà Nội (RS)
-Nguyễn Đức Toàn, Thái Bình (RS)
-Nguyễn Kim Thanh, Hà Nội (RS)
-Nguyễn Ngọc Hoàng, Thanh Hoá (RS)
-Nguyễn Văn Hưng, Thanh Hoá (RS)
-Lê Đình Phi, Vinh (RS)
-Hà Mai Linh, Thái Bình (PS)
-Vũ Văn Thuật, Phú Thọ (RS)
-Nguyễn Văn Chữ, Bắc Giang Lạng Sơn (SaleRep)
-Lưu Hồng Quân, Nam Định (SaleRep)
-Lý Trường Giang, Hoà Bình (RS)
-Phạm Tiến Hiệp, Quảng Ninh (PS)
-Lê Thái Ngọc, Thanh Hoá (PS)
-Cao Đức Nhuận, Ninh Bình (PS)
-Trịnh Hoàng Thao, Ninh Bình (RS)
-Trần Trọng Thìn, Nghệ An (RS)
-Đồng Quang Dũng, Hà Nội (PS)
-Đỗ Văn Hào, Thanh Hoá (RS)
-Nguyễn Hồng Nhật, HA TINH (RS)
-Trần Đức Toàn, Nam Định (RS)
-Nguyễn Thế Lữ, Thái Bình (PS)
-Đỗ Việt Hùng, Hà Nội (RS)
-Nguyễn Văn Hoạt, Hà Nội (RS)
-Hoàng Minh Phương, Nam Định (PS)
-Trương Thị Tuyết Nhung, Hải Phóng (PS)
-Lê Thị Hạnh, Hải Phóng (PS)
-Ngô Huyền Trang, Hải Phóng (PS)
-Nguyễn Thu Quỳnh, Hải Phóng (PS)
-Phạm Thị Hà, Hải Phóng (PS)
-Bùi Thị Minh, Hải Phóng (PS)
-"Nguyễn Thị Hoài	, Thanh Hoá (PS)"
-Nguyễn Hà Ly, Hải Phóng (PS)
-Lê Thị Phượng, Nghệ An (PS)
-Trần Thị Thanh Hương, HA TINH (PS)
-Nguyễn Xuân Phương Quỳnh, Hải Phóng (PS)
-Trần Thị Hải Yến, Nghệ An (PS)
-Bùi Thị Phương Thuý, Hải Phóng (PS)
-Vũ Thị Lan Hương, Hải Phóng (PS)
-Trần Thị Đoan Quyên, Hải Phóng (PS)
-Hoàng Thị Hải, Nghệ An (PS)
-Nguyễn Thị Ngọc Yến, Hải Phóng (PS)
-Bùi Thị Cảnh, Nghệ An (PS)
-Nguyễn Toàn Thắng, Hải Phóng (PS)
-Lê Doãn Văn, HA TINH (PS)
-Vi Ngọc Hà, Hải Phóng (PS)
-Nguyễn Trọng Hưng, Hải Phóng (PS)
-Phạm Văn Phương, Hà Nội (RS)
-Nguyễn Tiến Hùng, Nghệ An (PS)
-Trần Mạnh Toàn, Hải Phóng (PS)
-Trần Đức Anh, Hải Phóng (PS)
-Lã Văn Thụy, Hưng Yên (RS)
-Trần Duy Mạnh, Hà Nội (RS)
-Nguyễn Bá Bình, Thái Nguyên (RS)
-Nguyễn Văn Chiến, Hà Nội (RS)
-Mạc Xuân Minh, Hải Phóng (PS)
-Tạ Đình Tứ, Nghệ An (PS)
-Nguyễn Thị Hoài Thu, BAC GIANG (PS)
-Phạm Hà Vy, Tuyên Quang (PS)
-Trần Thị Huyền, BAC GIANG (PS)
-Nguyễn Thị Lụa, Lạng Sơn (PS)
-Nguyễn Thị Hoài Thương, Lào Cai (PS)
-Mai Thanh Nga, Bắc Ninh (PS)
-Hoàng Thị Hồng Nhung, CAO BANG (PS)
-Dương Thị Ánh Dương, Vĩnh Phúc (PS)
-Đường Thị Huê, Vĩnh Phúc (PS)
-Nguyễn Thùy Dung, Bắc Ninh (PS)
-Trần Thanh Nga, Phú Thọ (PS)
-Nguyễn Thị Hạnh, Phú Thọ (PS)
-Kiều Như Ngọc Anh, Vĩnh Phúc (PS)
-Trịnh Thị Thùy, Bắc Ninh (PS)
-Đào Thị Huyền Hà, Lào Cai (PS)
-Lê Tuấn Sơn, Bắc Ninh (PS)
-Nguyễn Ngọc Sơn, Bắc Ninh (PS)
-Đặng Khắc Thành, Hà Tĩnh Nghệ An 1 (SaleRep)
-Nguyễn Hoài Nam, Hải Phóng (RS)
-Nghiêm Viết Sơn, Hải Dương (RS)
-Vũ Đình Tâm, Quảng Ninh (RS)
-Nguyễn Đình Luân, Tuyên Quang (RS)
-Nguyễn Duy Trường, Lào Cai (RS)
-Đào Đình Toàn, Hải Phóng (RS)
-Hoàng Văn Trọng, Vĩnh Phúc (PS)
-Nguyễn Văn Dũng, Bắc Ninh (RS)
-Uông Đình Lộc, Bắc Ninh (RS)
-Hoàng Xuân Tùng, Hải Phóng (RS)
-Trần Công Nho, Thanh Hoá (SaleRep)
-Hồ Duy Hưng, Thanh Hoá 2 (SaleRep)
-Vũ Đức Trường, Quảng Ninh (RS)
-Nguyễn Văn Đồng, Yên Bái (RS)
-Lý Tuấn Anh, Thái Nguyên (PS)
-Nguyễn Văn Sáng, BAC GIANG (PS)
-Nguyễn Đức Tưởng, BAC GIANG (RS)
-Hoàng Ngọc Huy, Lạng Sơn (RS)
-Phạm Thị Thu Trang, Quảng Ninh (PS)
-Hà Hương Giang, Quảng Ninh (PS)
-TRẦN HUYỀN TRANG, Hà Nam (PS)
-Lường Thị Nghiệp, Sơn La (PS)
-Tạ Thị Phương Thảo, Hà Nội (PS)
-Trần Thị Hương, Hà Nội (PS)
-Phạm Thùy Dung, Quảng Ninh (PS)
-LÊ THỊ HUYỀN TRANG, DIEN BIEN (PS)
-Đinh Thị Thanh Huế, Hà Nội (PS)
-Phạm Thị Vân Anh, Hà Nội (PS)
-Từ Kim Dung, Hà Nội (SOH)
-Phạm Linh Giang, Hải Dương (PS)
-Nguyễn Thị Mai Anh, Sơn La (PS)
-Vũ Ngọc Mai, Hà Nội (PS)
-Lê Thị Hoà, Hà Nội (PS)
-Nguyễn Ngọc Anh, Hà Nội (PS)
-Phùng Kim Mai Anh, Hà Nội (PS)
-Lê Thị Hồng, Quảng Ninh (PS)
-Nguyễn Thị Ngọc, Hải Dương (PS)
-Hoàng Thị Kiều My, Hà Nội (PS)
-Nguyễn Thị Ánh Nguyệt, Hà Nam (PS)
-Đỗ Thị Yến, Hà Nội (PS)
-Phó Thanh Lâm, Hà Nội (PS)
-Vũ Mạnh Đức, Quảng Ninh (PS)
-Nguyễn Văn Nam, Hà Nội (PS)
-Nguyễn Đức Tùng, Hà Nội (PS)
-Trần Đức Đô, Hải Dương (PS)
-Nguyễn Chí Thanh, Hà Nội (PS)
-Vũ Quốc Toản, Hà Nội (PS)
-Hoàng Tùng Huy,Quảng Ninh (PS)
-Đặng Tùng Lâm, Quảng Ninh (PS)
-Vũ Hoàng Anh, Hà Nội (PS)
-Đặng Vinh Quang, Hà Nội (PS)
-Nguyễn Đức Việt, Quảng Ninh (PS)
-Nguyễn Hồng Hà, Hà Nội (PS)
-Phan Gia Huy, Hà Nội (PS)
-Nguyễn Việt Thắng, Hoà Bình (PS)
-Bùi Đức Hoàng, Hà Nội (PS)
-Trần Xuân Bằng, Hà Nội (PS)
+ĐOÀN VĂN HIỂU EM,TỔNG GIÁM ĐỐC 
+NGUYỄN THỊ HOA,TRỢ LÝ TỔNG GĐ
+TRẦN VĂN HOÀNG,GIÁM ĐỐC NGÀNH HÀNG CE
+NGUYỄN THỊ LÝ,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+LÊ VĂN NHẬT,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN THỊ ÁI LỆ,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+TRƯƠNG HỒNG HOÀNG,GIÁM ĐỐC PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN THỊ YẾN MI,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+TRẦN NGUYỄN KHÁNH HUY,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN THỊ ĐINH HƯƠNG,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN TRỌNG PHƯỚC,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+LÊ THỊ NGA,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN THỊ MỘNG VÂN,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+ĐINH THỊ THANH THÚY,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN THỊ THANH AN,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN CÔNG DANH,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
+NGUYỄN HỮU HANH,GIÁM ĐỐC BỘ PHẬN VẬN HÀNH HỖ TRỢ
+NGUYỄN QUỐC DŨNG,TRƯỞNG BỘ PHẬN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+ĐẶNG HOÀNG TUYẾN,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+PHAN NGUYỄN ĐẠT HỒNG DƯ,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+LÊ NGỌC KHANH,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+NGUYỄN VĂN DƯƠNG,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+PHẠM NGUYÊN VŨ,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+HUỲNH MAI ĐAN THẢO,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
+ĐỖ NGUYỄN MINH VIỄN,GIÁM ĐỐC BỘ PHẬN TIỂN KHAI 
+VÕ PHƯỚC SONG,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+VÕ HOÀNG TUẤN,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+ĐOÀN THANH TÂM,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+NGUYỄN VĂN TRƯỜNG,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+VÕ NGỌC ANH,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+NGUYỄN ĐÌNH NHÂM,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
+NGUYỄN ĐỨC MINH,TRƯỞNG BỘ PHẬN BỘ PHẬN ONL
+CHỊ TÂM,TRƯỞNG NHÓM BỘ PHẬN ONL
+LÊ MINH ĐẠT,CHUYÊN VIÊN BỘ PHẬN ONL
+PHAN TRỌNG NGHĨA,TRƯỞNG NHÓM BỘ PHẬN ONL
+NGUYỄN TẤN PHÁT,TRƯỞNG BỘ PHẬN BỘ PHẬN MKT
+NGUYỄN THỊ THU THẢO,TRƯỞNG BỘ PHẬN CHIẾT KHẤU
+NGUYỄN THỊ QUỲNH NGA,CHUYÊN VIÊN CHIẾT KHẤU
+VÕ THỊ KIM PHỤNG,RSM
+HỒNG THỊ BẠCH YẾN,AM
+TRẦN THỊ QUỲNH NHƯ,QLST
+TRẦN THỊ THÚY HÂN,QLST
+TRẦN TRỌNG TÍN,QLST
+NGUYỄN MY KHA,AM
+VÕ NGỌC PHƯƠNG,QLST
+HUỲNH QUỐC LÂM,QLST
+NGUYỄN THỊ BẢO VI,AM
+HỒ THỊ THÚY NGA,QLST
+NGUYỄN THỊ NGỌC VÂN,QLST
+NGUYỄN KHẮC HOÀNG,QLST
+TRẦN KHÁNH TRƯỞNG,AM
+TRẦN THANH TUẤN,QLST
+TRẦN LÊ TÀI,QLST
+LÊ VÕ TRƯỜNG ÂN,AM
+NGUYỄN HỮU GIANG THÙY,QLST
+NGUYỄN ĐÌNH PHI,QLST
+NGUYỄN PHÁT ĐẠT,AM
+TRƯƠNG NGỌC ANH BẢO,QLST
+PHAN THỊ NGỌC YẾN,QLST
+ĐÀO THỊ HOÀI THU,AM
+HÀ TIẾN HUY,QLST
+LÊ THANH HƯNG,QLST
+TRẦN NGUYỄN QUỐC HẬU,QLST
+TRƯƠNG TUẤN MINH,AM
+MAI XUÂN TRƯỜNG,QLST
+TRẦN MINH HOÀNG,QLST
+NGUYỄN MINH TIẾN,QLST
+NGUYỄN BÙI PHƯƠNG NGHĨA,AM
+LE NGUYET HOANG VAN NHI,QLST
+NGUYEN KIM PHUONG,QLST
+NGUYỄN NGỌC DŨNG,AM
+NGUYỄN THỊ THANH HẰNG,QLST
+NGUYỄN HOÀNG TÚ,QLST
+LÂM VĨNH HƯNG,AM
+LÊ THỊ HIẾU,QLST
+PHẠM HOÀI HẬN,QLST
+HOÀNG XUÂN QUỲNH,QLST
+TRẦN SƠN QUÝ,QLST
+MAI CHIẾN THẮNG,QLST
+TRẦN MINH SANG,QLST
+TRẦN THỊ KIM OANH,AM
+NGUYỄN THANH ĐÔNG,AM
+NGUYỄN CÔNG NHÂN,QLST
+LƯ TƯỜNG PHÚ,QLST
+TÔN THẤT ĐĂNG KHOA,TKCN
+HUỲNH THỊ HỒNG GẤM,TKCN
+NGUYỄN VĂN THANH TÂM,TKCN
