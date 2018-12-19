@@ -20,21 +20,21 @@ Nguyễn Thị Anh Thư,Triền khai chưc năng
 Nguyễn Dụng Phòng,Triền khai chưc năng
 Mai Hùng Cường,Triền khai chưc năng
 Lương Thế Chung,Triền khai chưc năng
-Luyện Văn Tùng,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Khánh Ly,BP Quản Lý Siêu Thị - ĐM
-Bùi Ngọc Tân,BP Quản Lý Siêu Thị - ĐM
-Trần Văn Thắng,BP Quản Lý Siêu Thị - ĐM
-Đặng Công Đăng,BP Quản Lý Siêu Thị - ĐM
-Hoàng Thái Bảo,BP Quản Lý Siêu Thị - ĐM
-Vũ Hữu Trường,BP Quản Lý Siêu Thị - ĐM
+Luyện Văn Tùng,Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Khánh Ly,Quản Lý Siêu Thị - ĐM
+Bùi Ngọc Tân,Quản Lý Siêu Thị - ĐM
+Trần Văn Thắng,Quản Lý Siêu Thị - ĐM
+Đặng Công Đăng,Quản Lý Siêu Thị - ĐM
+Hoàng Thái Bảo,Quản Lý Siêu Thị - ĐM
+Vũ Hữu Trường,Quản Lý Siêu Thị - ĐM
 Vũ Văn Huy,BP Quản Lý Siêu Thị - ĐM
-Bùi Quang Hải,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Đức,BP Quản Lý Siêu Thị - ĐM
-Lăng Văn Phượng,BP Quản Lý Siêu Thị - ĐM
-Phùng Thị Khánh Ly,BP Quản Lý Siêu Thị - ĐM
-Tạ Văn Quân,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Nam,BP Quản Lý Siêu Thị - ĐM
-Đoàn Quang Hảo,BP Quản Lý Siêu Thị - ĐM
+Bùi Quang Hải,Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Đức,Quản Lý Siêu Thị - ĐM
+Lăng Văn Phượng,Quản Lý Siêu Thị - ĐM
+Phùng Thị Khánh Ly,Quản Lý Siêu Thị - ĐM
+Tạ Văn Quân,Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Nam,Quản Lý Siêu Thị - ĐM
+Đoàn Quang Hảo,Quản Lý Siêu Thị - ĐM
 Phạm Minh Thắng ,AM / RSM
 Nguyễn Văn Thành ,AM / RSM
 Nguyễn Quốc Trường,AM / RSM
@@ -47,23 +47,23 @@ Phạm Đức Toàn,TNH Chức năng
 Nguyễn Hồng Tuyên,TNH Chức năng 
 Lê Vĩnh Dũng ,TNH Chức năng 
 Hoàng Khắc Tùng ,TNH Chức năng 
-Lý Quốc Khánh.,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Tiến,BP Quản Lý Siêu Thị - ĐM
-Dương Đức Thành,BP Quản Lý Siêu Thị - ĐM
-Lê Sỹ Phương,BP Quản Lý Siêu Thị - ĐM
-Trà Đức Thọ,BP Quản Lý Siêu Thị - ĐM
-Lương Quang Sáng,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Hiền,BP Quản Lý Siêu Thị - ĐM
-Lê Tuấn Anh ,BP Quản Lý Siêu Thị - ĐM
-Đặng Phú Lộc,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Tiến Hưng ,BP Quản Lý Siêu Thị - ĐM
-Phạm Minh Đức,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Cảnh,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Hồng Quân,BP Quản Lý Siêu Thị - ĐM
-Trần Bình ,BP Quản Lý Siêu Thị - ĐM
-Lê Huy Hoàng,BP Quản Lý Siêu Thị - ĐM
-Mai Thanh Tùng ,BP Quản Lý Siêu Thị - ĐM
-Lê Thị Thanh Hoa,BP Quản Lý Siêu Thị - ĐM
+Lý Quốc Khánh., Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Tiến,Quản Lý Siêu Thị - ĐM
+Dương Đức Thành,Quản Lý Siêu Thị - ĐM
+Lê Sỹ Phương,Quản Lý Siêu Thị - ĐM
+Trà Đức Thọ,Quản Lý Siêu Thị - ĐM
+Lương Quang Sáng,Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Hiền,Quản Lý Siêu Thị - ĐM
+Lê Tuấn Anh ,Quản Lý Siêu Thị - ĐM
+Đặng Phú Lộc,Quản Lý Siêu Thị - ĐM
+Nguyễn Tiến Hưng ,Quản Lý Siêu Thị - ĐM
+Phạm Minh Đức,Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Cảnh,Quản Lý Siêu Thị - ĐM
+Nguyễn Hồng Quân,Quản Lý Siêu Thị - ĐM
+Trần Bình ,Quản Lý Siêu Thị - ĐM
+Lê Huy Hoàng,Quản Lý Siêu Thị - ĐM
+Mai Thanh Tùng ,Quản Lý Siêu Thị - ĐM
+Lê Thị Thanh Hoa,Quản Lý Siêu Thị - ĐM
 Trần Thị Hoàng Yến ,AM chức Năng 
 Lê Minh Tú ,AM chức Năng 
 Lê Nguyễn Thị Hoàng Nhung,AM 
@@ -84,23 +84,23 @@ Nguyễn Quang Huy ,TBP XDBT
 Trần Thanh Tùng ,TBP SBH 
 Nguyễn Văn Đạt ,PTMB 
 Đặng Thị Tấm ,Phòng Nhân sự 
-Vũ Văn Long ,BP An Ninh 
+Vũ Văn Long ,An Ninh 
 Nguyễn Trang Nhung ,Kế Toán 
-Đỗ hải Nam 	,BP Quản Lý Siêu Thị - ĐM
-Trịnh Tiến Thành,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Hồng Vân,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Mạnh Cương,BP Quản Lý Siêu Thị - ĐM
-Trần Trung Hiếu,BP Quản Lý Siêu Thị - ĐM
-Trần Trung Kiên,BP Quản Lý Siêu Thị - ĐM
-Nguyen Duc Vinh,BP Quản Lý Siêu Thị - ĐM
-Đoàn Đình Tứ,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Ngọc Phúc ,BP Quản Lý Siêu Thị - ĐM
-Hà Thọ Cường ,BP Quản Lý Siêu Thị - ĐM
-Chu Hồng Sơn,BP Quản Lý Siêu Thị - ĐM
-Phạm Xuân Trường,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Hồng Hoàn,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Ngọc Định ,BP Quản Lý Siêu Thị - ĐM
-Ngô Văn Đoan,BP Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Ánh Tuyết,BP Quản Lý Siêu Thị - ĐM
-Dương Quang Chung,BP Quản Lý Siêu Thị - ĐM
-Hoàng Văn Đức,BP Quản Lý Siêu Thị - ĐM
+Đỗ hải Nam 	,Quản Lý Siêu Thị - ĐM
+Trịnh Tiến Thành,Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Hồng Vân,Quản Lý Siêu Thị - ĐM
+Nguyễn Mạnh Cương,Quản Lý Siêu Thị - ĐM
+Trần Trung Hiếu,Quản Lý Siêu Thị - ĐM
+Trần Trung Kiên,Quản Lý Siêu Thị - ĐM
+Nguyen Duc Vinh,Quản Lý Siêu Thị - ĐM
+Đoàn Đình Tứ,Quản Lý Siêu Thị - ĐM
+Nguyễn Ngọc Phúc ,Quản Lý Siêu Thị - ĐM
+Hà Thọ Cường ,Quản Lý Siêu Thị - ĐM
+Chu Hồng Sơn,Quản Lý Siêu Thị - ĐM
+Phạm Xuân Trường,Quản Lý Siêu Thị - ĐM
+Nguyễn Hồng Hoàn,Quản Lý Siêu Thị - ĐM
+Nguyễn Ngọc Định ,Quản Lý Siêu Thị - ĐM
+Ngô Văn Đoan,Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Ánh Tuyết,Quản Lý Siêu Thị - ĐM
+Dương Quang Chung,Quản Lý Siêu Thị - ĐM
+Hoàng Văn Đức,Quản Lý Siêu Thị - ĐM
