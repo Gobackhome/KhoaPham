@@ -1,88 +1,106 @@
 Name,cuahang
-ĐOÀN VĂN HIỂU EM,TỔNG GIÁM ĐỐC 
-NGUYỄN THỊ HOA,TRỢ LÝ TỔNG GĐ
-TRẦN VĂN HOÀNG,GIÁM ĐỐC NGÀNH HÀNG CE
-NGUYỄN THỊ LÝ,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-LÊ VĂN NHẬT,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN THỊ ÁI LỆ,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-TRƯƠNG HỒNG HOÀNG,GIÁM ĐỐC PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN THỊ YẾN MI,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-TRẦN NGUYỄN KHÁNH HUY,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN THỊ ĐINH HƯƠNG,TRƯỞNG BỘ PHẬN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN TRỌNG PHƯỚC,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-LÊ THỊ NGA,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN THỊ MỘNG VÂN,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-ĐINH THỊ THANH THÚY,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN THỊ THANH AN,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN CÔNG DANH,CHUYÊN VIÊN PHỤ TRÁCH MUA HÀNG CE
-NGUYỄN HỮU HANH,GIÁM ĐỐC BỘ PHẬN VẬN HÀNH HỖ TRỢ
-NGUYỄN QUỐC DŨNG,TRƯỞNG BỘ PHẬN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-ĐẶNG HOÀNG TUYẾN,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-PHAN NGUYỄN ĐẠT HỒNG DƯ,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-LÊ NGỌC KHANH,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-NGUYỄN VĂN DƯƠNG,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-PHẠM NGUYÊN VŨ,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-HUỲNH MAI ĐAN THẢO,CHUYÊN VIÊN BỘ PHẬN VẬN HÀNH HỖ TRỢ
-ĐỖ NGUYỄN MINH VIỄN,GIÁM ĐỐC BỘ PHẬN TIỂN KHAI 
-VÕ PHƯỚC SONG,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-VÕ HOÀNG TUẤN,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-ĐOÀN THANH TÂM,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-NGUYỄN VĂN TRƯỜNG,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-VÕ NGỌC ANH,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-NGUYỄN ĐÌNH NHÂM,HỖ TRỢ TRIỂN KHAI BỘ PHẬN TIỂN KHAI 
-NGUYỄN ĐỨC MINH,TRƯỞNG BỘ PHẬN BỘ PHẬN ONL
-CHỊ TÂM,TRƯỞNG NHÓM BỘ PHẬN ONL
-LÊ MINH ĐẠT,CHUYÊN VIÊN BỘ PHẬN ONL
-PHAN TRỌNG NGHĨA,TRƯỞNG NHÓM BỘ PHẬN ONL
-NGUYỄN TẤN PHÁT,TRƯỞNG BỘ PHẬN BỘ PHẬN MKT
-NGUYỄN THỊ THU THẢO,TRƯỞNG BỘ PHẬN CHIẾT KHẤU
-NGUYỄN THỊ QUỲNH NGA,CHUYÊN VIÊN CHIẾT KHẤU
-VÕ THỊ KIM PHỤNG,RSM
-HỒNG THỊ BẠCH YẾN,AM
-TRẦN THỊ QUỲNH NHƯ,QLST
-TRẦN THỊ THÚY HÂN,QLST
-TRẦN TRỌNG TÍN,QLST
-NGUYỄN MY KHA,AM
-VÕ NGỌC PHƯƠNG,QLST
-HUỲNH QUỐC LÂM,QLST
-NGUYỄN THỊ BẢO VI,AM
-HỒ THỊ THÚY NGA,QLST
-NGUYỄN THỊ NGỌC VÂN,QLST
-NGUYỄN KHẮC HOÀNG,QLST
-TRẦN KHÁNH TRƯỞNG,AM
-TRẦN THANH TUẤN,QLST
-TRẦN LÊ TÀI,QLST
-LÊ VÕ TRƯỜNG ÂN,AM
-NGUYỄN HỮU GIANG THÙY,QLST
-NGUYỄN ĐÌNH PHI,QLST
-NGUYỄN PHÁT ĐẠT,AM
-TRƯƠNG NGỌC ANH BẢO,QLST
-PHAN THỊ NGỌC YẾN,QLST
-ĐÀO THỊ HOÀI THU,AM
-HÀ TIẾN HUY,QLST
-LÊ THANH HƯNG,QLST
-TRẦN NGUYỄN QUỐC HẬU,QLST
-TRƯƠNG TUẤN MINH,AM
-MAI XUÂN TRƯỜNG,QLST
-TRẦN MINH HOÀNG,QLST
-NGUYỄN MINH TIẾN,QLST
-NGUYỄN BÙI PHƯƠNG NGHĨA,AM
-LE NGUYET HOANG VAN NHI,QLST
-NGUYEN KIM PHUONG,QLST
-NGUYỄN NGỌC DŨNG,AM
-NGUYỄN THỊ THANH HẰNG,QLST
-NGUYỄN HOÀNG TÚ,QLST
-LÂM VĨNH HƯNG,AM
-LÊ THỊ HIẾU,QLST
-PHẠM HOÀI HẬN,QLST
-HOÀNG XUÂN QUỲNH,QLST
-TRẦN SƠN QUÝ,QLST
-MAI CHIẾN THẮNG,QLST
-TRẦN MINH SANG,QLST
-TRẦN THỊ KIM OANH,AM
-NGUYỄN THANH ĐÔNG,AM
-NGUYỄN CÔNG NHÂN,QLST
-LƯ TƯỜNG PHÚ,QLST
-TÔN THẤT ĐĂNG KHOA,TKCN
-HUỲNH THỊ HỒNG GẤM,TKCN
-NGUYỄN VĂN THANH TÂM,TKCN
+Trần Văn Hoàng,Giam đốc ngành hàng CE
+Nguyễn Thị Lý,Trưởng bộ phận
+Nguyễn Thị Yến Mi,Trưởng bộ phận
+Nguyễn Văn Chung,RSM 
+Nguyễn Đình Quỳnh,RSM 
+Đặng Hoàng Anh Chiến ,RSM 
+Nguyễn Đức Binh,AM / RSM
+Nguyễn Hải Ninh,AM / RSM
+Lê Hùng Minh,AM / RSM
+Lê Khắc Năng,AM / RSM
+Nguyễn Thị Kim Thu,AM / RSM
+Nguyễn Quang Hưng,AM / RSM
+Phạm Thành Luân,AM / RSM
+Nguyễn Thị Phúc,AM / RSM
+Lưu Thị Thu Hồng,AM / RSM
+Nguyễn Tùng Lâm,AM / RSM
+Lê Tiến Định,AM / RSM
+Nguyễn Thị Anh Thư,Triền khai chưc năng
+Nguyễn Dụng Phòng,Triền khai chưc năng
+Mai Hùng Cường,Triền khai chưc năng
+Lương Thế Chung,Triền khai chưc năng
+Luyện Văn Tùng,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Khánh Ly,BP Quản Lý Siêu Thị - ĐM
+Bùi Ngọc Tân,BP Quản Lý Siêu Thị - ĐM
+Trần Văn Thắng,BP Quản Lý Siêu Thị - ĐM
+Đặng Công Đăng,BP Quản Lý Siêu Thị - ĐM
+Hoàng Thái Bảo,BP Quản Lý Siêu Thị - ĐM
+Vũ Hữu Trường,BP Quản Lý Siêu Thị - ĐM
+Vũ Văn Huy,BP Quản Lý Siêu Thị - ĐM
+Bùi Quang Hải,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Đức,BP Quản Lý Siêu Thị - ĐM
+Lăng Văn Phượng,BP Quản Lý Siêu Thị - ĐM
+Phùng Thị Khánh Ly,BP Quản Lý Siêu Thị - ĐM
+Tạ Văn Quân,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Nam,BP Quản Lý Siêu Thị - ĐM
+Đoàn Quang Hảo,BP Quản Lý Siêu Thị - ĐM
+Phạm Minh Thắng ,AM / RSM
+Nguyễn Văn Thành ,AM / RSM
+Nguyễn Quốc Trường,AM / RSM
+Nguyễn Phương Chung,AM / RSM
+Trần Văn Hải,AM / RSM
+Lê Quang Bích ,AM / RSM
+Bùi Văn Hưng,AM / RSM
+Lê Trường Quang,AM / RSM
+Phạm Đức Toàn,TNH Chức năng 
+Nguyễn Hồng Tuyên,TNH Chức năng 
+Lê Vĩnh Dũng ,TNH Chức năng 
+Hoàng Khắc Tùng ,TNH Chức năng 
+Lý Quốc Khánh.,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Tiến,BP Quản Lý Siêu Thị - ĐM
+Dương Đức Thành,BP Quản Lý Siêu Thị - ĐM
+Lê Sỹ Phương,BP Quản Lý Siêu Thị - ĐM
+Trà Đức Thọ,BP Quản Lý Siêu Thị - ĐM
+Lương Quang Sáng,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Hiền,BP Quản Lý Siêu Thị - ĐM
+Lê Tuấn Anh ,BP Quản Lý Siêu Thị - ĐM
+Đặng Phú Lộc,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Tiến Hưng ,BP Quản Lý Siêu Thị - ĐM
+Phạm Minh Đức,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Văn Cảnh,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Hồng Quân,BP Quản Lý Siêu Thị - ĐM
+Trần Bình ,BP Quản Lý Siêu Thị - ĐM
+Lê Huy Hoàng,BP Quản Lý Siêu Thị - ĐM
+Mai Thanh Tùng ,BP Quản Lý Siêu Thị - ĐM
+Lê Thị Thanh Hoa,BP Quản Lý Siêu Thị - ĐM
+Trần Thị Hoàng Yến ,AM chức Năng 
+Lê Minh Tú ,AM chức Năng 
+Lê Nguyễn Thị Hoàng Nhung,AM 
+Phùng Thị Hồng Nhung,AM 
+Nguyễn Hữu Sơn,AM 
+Nguyễn Thị Khiêm,AM 
+Nguyễn Thị Phương Anh,AM 
+Nguyễn Phi Quyền,AM 
+Nguyễn Trần Anh Thư,AM 
+Đỗ Ngọc Hùng Anh,AM 
+Phạm Văn Trường,AM 
+Nguyễn Trung Kiên ,TNH Chức năng 
+Liêu Bắc Nam ,TNH Chức năng 
+Nguyễn Sỹ Mạnh ,TNH Chức năng 
+Vũ Hoàng Long ,TBP  triển khai 
+Đỗ Thu vân ,TBP hành chánh 
+Nguyễn Quang Huy ,TBP XDBT 
+Trần Thanh Tùng ,TBP SBH 
+Nguyễn Văn Đạt ,PTMB 
+Đặng Thị Tấm ,Phòng Nhân sự 
+Vũ Văn Long ,BP An Ninh 
+Nguyễn Trang Nhung ,Kế Toán 
+Đỗ hải Nam 	,BP Quản Lý Siêu Thị - ĐM
+Trịnh Tiến Thành,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Hồng Vân,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Mạnh Cương,BP Quản Lý Siêu Thị - ĐM
+Trần Trung Hiếu,BP Quản Lý Siêu Thị - ĐM
+Trần Trung Kiên,BP Quản Lý Siêu Thị - ĐM
+Nguyen Duc Vinh,BP Quản Lý Siêu Thị - ĐM
+Đoàn Đình Tứ,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Ngọc Phúc ,BP Quản Lý Siêu Thị - ĐM
+Hà Thọ Cường ,BP Quản Lý Siêu Thị - ĐM
+Chu Hồng Sơn,BP Quản Lý Siêu Thị - ĐM
+Phạm Xuân Trường,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Hồng Hoàn,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Ngọc Định ,BP Quản Lý Siêu Thị - ĐM
+Ngô Văn Đoan,BP Quản Lý Siêu Thị - ĐM
+Nguyễn Thị Ánh Tuyết,BP Quản Lý Siêu Thị - ĐM
+Dương Quang Chung,BP Quản Lý Siêu Thị - ĐM
+Hoàng Văn Đức,BP Quản Lý Siêu Thị - ĐM
