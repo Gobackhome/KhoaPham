@@ -27,7 +27,7 @@ Trần Văn Thắng,Quản Lý Siêu Thị - ĐM
 Đặng Công Đăng,Quản Lý Siêu Thị - ĐM
 Hoàng Thái Bảo,Quản Lý Siêu Thị - ĐM
 Vũ Hữu Trường,Quản Lý Siêu Thị - ĐM
-Vũ Văn Huy,BP Quản Lý Siêu Thị - ĐM
+Vũ Văn Huy,Quản Lý Siêu Thị - ĐM
 Bùi Quang Hải,Quản Lý Siêu Thị - ĐM
 Nguyễn Văn Đức,Quản Lý Siêu Thị - ĐM
 Lăng Văn Phượng,Quản Lý Siêu Thị - ĐM
