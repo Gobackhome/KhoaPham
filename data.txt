@@ -1,106 +1,93 @@
 Name,cuahang
-Trần Văn Hoàng,Giam đốc ngành hàng CE
-Nguyễn Thị Lý,Trưởng bộ phận
-Nguyễn Thị Yến Mi,Trưởng bộ phận
-Nguyễn Văn Chung,RSM 
-Nguyễn Đình Quỳnh,RSM 
-Đặng Hoàng Anh Chiến ,RSM 
-Nguyễn Đức Binh,AM / RSM
-Nguyễn Hải Ninh,AM / RSM
-Lê Hùng Minh,AM / RSM
-Lê Khắc Năng,AM / RSM
-Nguyễn Thị Kim Thu,AM / RSM
-Nguyễn Quang Hưng,AM / RSM
-Phạm Thành Luân,AM / RSM
-Nguyễn Thị Phúc,AM / RSM
-Lưu Thị Thu Hồng,AM / RSM
-Nguyễn Tùng Lâm,AM / RSM
-Lê Tiến Định,AM / RSM
-Nguyễn Thị Anh Thư,Triền khai chưc năng
-Nguyễn Dụng Phòng,Triền khai chưc năng
-Mai Hùng Cường,Triền khai chưc năng
-Lương Thế Chung,Triền khai chưc năng
-Luyện Văn Tùng,Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Khánh Ly,Quản Lý Siêu Thị - ĐM
-Bùi Ngọc Tân,Quản Lý Siêu Thị - ĐM
-Trần Văn Thắng,Quản Lý Siêu Thị - ĐM
-Đặng Công Đăng,Quản Lý Siêu Thị - ĐM
-Hoàng Thái Bảo,Quản Lý Siêu Thị - ĐM
-Vũ Hữu Trường,Quản Lý Siêu Thị - ĐM
-Vũ Văn Huy,Quản Lý Siêu Thị - ĐM
-Bùi Quang Hải,Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Đức,Quản Lý Siêu Thị - ĐM
-Lăng Văn Phượng,Quản Lý Siêu Thị - ĐM
-Phùng Thị Khánh Ly,Quản Lý Siêu Thị - ĐM
-Tạ Văn Quân,Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Nam,Quản Lý Siêu Thị - ĐM
-Đoàn Quang Hảo,Quản Lý Siêu Thị - ĐM
-Phạm Minh Thắng ,AM / RSM
-Nguyễn Văn Thành ,AM / RSM
-Nguyễn Quốc Trường,AM / RSM
-Nguyễn Phương Chung,AM / RSM
-Trần Văn Hải,AM / RSM
-Lê Quang Bích ,AM / RSM
-Bùi Văn Hưng,AM / RSM
-Lê Trường Quang,AM / RSM
-Phạm Đức Toàn,TNH Chức năng 
-Nguyễn Hồng Tuyên,TNH Chức năng 
-Lê Vĩnh Dũng ,TNH Chức năng 
-Hoàng Khắc Tùng ,TNH Chức năng 
-Lý Quốc Khánh., Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Tiến,Quản Lý Siêu Thị - ĐM
-Dương Đức Thành,Quản Lý Siêu Thị - ĐM
-Lê Sỹ Phương,Quản Lý Siêu Thị - ĐM
-Trà Đức Thọ,Quản Lý Siêu Thị - ĐM
-Lương Quang Sáng,Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Hiền,Quản Lý Siêu Thị - ĐM
-Lê Tuấn Anh ,Quản Lý Siêu Thị - ĐM
-Đặng Phú Lộc,Quản Lý Siêu Thị - ĐM
-Nguyễn Tiến Hưng ,Quản Lý Siêu Thị - ĐM
-Phạm Minh Đức,Quản Lý Siêu Thị - ĐM
-Nguyễn Văn Cảnh,Quản Lý Siêu Thị - ĐM
-Nguyễn Hồng Quân,Quản Lý Siêu Thị - ĐM
-Trần Bình ,Quản Lý Siêu Thị - ĐM
-Lê Huy Hoàng,Quản Lý Siêu Thị - ĐM
-Mai Thanh Tùng ,Quản Lý Siêu Thị - ĐM
-Lê Thị Thanh Hoa,Quản Lý Siêu Thị - ĐM
-Trần Thị Hoàng Yến ,AM chức Năng 
-Lê Minh Tú ,AM chức Năng 
-Lê Nguyễn Thị Hoàng Nhung,AM 
-Phùng Thị Hồng Nhung,AM 
-Nguyễn Hữu Sơn,AM 
-Nguyễn Thị Khiêm,AM 
-Nguyễn Thị Phương Anh,AM 
-Nguyễn Phi Quyền,AM 
-Nguyễn Trần Anh Thư,AM 
-Đỗ Ngọc Hùng Anh,AM 
-Phạm Văn Trường,AM 
-Nguyễn Trung Kiên ,TNH Chức năng 
-Liêu Bắc Nam ,TNH Chức năng 
-Nguyễn Sỹ Mạnh ,TNH Chức năng 
-Vũ Hoàng Long ,TBP  triển khai 
-Đỗ Thu vân ,TBP hành chánh 
-Nguyễn Quang Huy ,TBP XDBT 
-Trần Thanh Tùng ,TBP SBH 
-Nguyễn Văn Đạt ,PTMB 
-Đặng Thị Tấm ,Phòng Nhân sự 
-Vũ Văn Long ,An Ninh 
-Nguyễn Trang Nhung ,Kế Toán 
-Đỗ hải Nam 	,Quản Lý Siêu Thị - ĐM
-Trịnh Tiến Thành,Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Hồng Vân,Quản Lý Siêu Thị - ĐM
-Nguyễn Mạnh Cương,Quản Lý Siêu Thị - ĐM
-Trần Trung Hiếu,Quản Lý Siêu Thị - ĐM
-Trần Trung Kiên,Quản Lý Siêu Thị - ĐM
-Nguyen Duc Vinh,Quản Lý Siêu Thị - ĐM
-Đoàn Đình Tứ,Quản Lý Siêu Thị - ĐM
-Nguyễn Ngọc Phúc ,Quản Lý Siêu Thị - ĐM
-Hà Thọ Cường ,Quản Lý Siêu Thị - ĐM
-Chu Hồng Sơn,Quản Lý Siêu Thị - ĐM
-Phạm Xuân Trường,Quản Lý Siêu Thị - ĐM
-Nguyễn Hồng Hoàn,Quản Lý Siêu Thị - ĐM
-Nguyễn Ngọc Định ,Quản Lý Siêu Thị - ĐM
-Ngô Văn Đoan,Quản Lý Siêu Thị - ĐM
-Nguyễn Thị Ánh Tuyết,Quản Lý Siêu Thị - ĐM
-Dương Quang Chung,Quản Lý Siêu Thị - ĐM
-Hoàng Văn Đức,Quản Lý Siêu Thị - ĐM
+Lê Anh Trung,Mediamart Đông Triều
+Nguyễn Văn Hùng,Mediamart Đông Triều
+Nguyễn Thị Hồng Thảo,Mediamart Đông Triều
+Cao Thị Kim Oanh,Mediamart Đông Triều
+Trần Minh Hải,Mediamart Đông Triều
+Dương Thu Thảo,Trung Tâm Giếng Đáy
+Phạm Việt Hà,Trung Tâm Giếng Đáy
+Phạm Văn Long,Trung Tâm Giếng Đáy
+Bùi Quang Đạt,Mediamart Mạo Khê
+Nguyễn Ngọc Minh,Mediamart Mạo Khê
+Vũ Thị Thùy Dung,Mediamart Mạo Khê
+Ngô Huy Thường,Mediamart Mạo Khê
+Lê Thị Thanh Hoa,Trung Tâm Hạ Long
+Nguyễn Văn Hùng,Trung Tâm Hạ Long
+Lê Thị Hồng Thắm,Trung Tâm Hạ Long
+Nguyễn Ngọc Hải,Trung Tâm Hạ Long
+Phạm Tiến Dũng,Mediamart Uông Bí
+Trần Thị Thắm,Mediamart Uông Bí
+Vũ Đại Phong,MediaMart An Dương
+Nguyễn Văn Hải,MediaMart An Dương
+Nguyễn Minh Tuấn,MediaMart An Dương
+Phạm Việt Tây,Trung tâm Vân Đồn
+Nguyễn Thị Hòa,Trung tâm Vân Đồn
+Vũ Việt Hà,Trung tâm Vân Đồn
+Vương Quốc Quảng,Mediamart Quảng Yên
+Nguyễn Thị Trang Anh,Mediamart Quảng Yên
+Đàm Trung Hiếu,Trung Tâm Cẩm Phả
+Lương Thị Lý Hoàng,Trung Tâm Cẩm Phả
+Nguyễn Thanh Tùng,Trung Tâm Cẩm Phả
+Vũ Thị Phương giang,Trung Tâm Cẩm Phả 2
+Nghiêm Trọng Đạt,Trung Tâm Cẩm Phả 2
+Nguyễn Tiến Đoàn,Mediamart Quán Toan 
+Hoàng Trung Minh,Mediamart Quán Toan 
+Nguyễn Trung Thành,Mediamart Quán Toan 
+Đàm Đức Quỳnh,Quảng Ninh - VHC
+Nguyễn Xuân Thư,Quảng Ninh
+Hoàng Hải Đăng,Quảng Ninh
+Phạm Thế Hùng,Quảng Ninh
+Phạm Trung Hoàn,Quảng Ninh
+Đinh Văn Phương,Quảng Ninh
+Trần Công Hữu,Hải Phòng
+Nguyễn Thành Trung,Hải Phòng
+Đàm Thị Phương Liên,Hải Phòng
+Nguyễn Quốc Hùng,Hải Phòng
+Nguyễn Tuấn Anh,Hải Dương
+Trịnh Nguyên Hải,Hải Dương
+Lê Văn Nam,Hải Dương
+Nguyễn Văn Hiếu,Hải Dương - VHC
+Nguyễn Thị Hằng,VinPro Hạ Long 
+Trần Bảo Trung,VinPro Hạ Long 
+Trần Quốc Đạt,VinPro Hạ Long 
+Nguyễn Thanh Tùng,VinPro Uông Bí
+Bùi Quang Duy,MB2_QNI_ĐMX_Mini - Quảng Yên
+Nguyễn Thanh Tuấn,MB2_QNI_ĐMX - Cẩm Phả
+Đoàn Văn Tú,MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
+Nguyễn Hoài Thu,MB2_QNI_ĐMX_Mini - Yên Giang (Quảng Yên)
+Bùi Quang Hải,MB2_QNI_ĐMX - Móng Cái
+Phạm Tuấn Anh,MB2_QNI_ĐMX_Mini - Nam Khê
+Nguyễn Thị Hồng Nhung,MB2_QNI_ĐMX - Uông Bí
+Vũ Văn Hiến,MB2_QNI_ĐMX - Bạch Đằng
+Vũ Khánh An,MB2_QNI_ĐMX_Mini - Tiên Yên
+Vũ Thị Diệu Ngọc,MB2_QNI_ĐMX - Mạo Khê
+Phan Phi Hùng,MB2_QNI_ĐMX - Uông Bí
+Đoàn Thị Khánh Thơ,MB2_QNI_ĐMX - Móng Cái
+Vũ Đình Thành,MB2_QNI_ĐMX_Mini - Cao Xanh
+Đặng Sơn Tùng,MB2_QNI_ĐMX_Mini - Cao Xanh
+Hoàng Ngọc Quang,MB2_QNI_ĐMX_Mini - Cao Xanh
+Mạc Tùng Lâm,MB2_QNI_ĐMX - Cẩm Bình
+Trần Thị Ngọc Yến,MB2_QNI_ĐMX_Mini - Hà Tu
+Bùi Thị Thảo,MB2_QNI_ĐMX_Mini - Hà Tu
+Nguyễn Thị Hường,MB2_QNI_ĐMX - Bạch Đằng
+Đỗ Bá Duy Tùng,MB2_QNI_ĐMX - Cẩm Bình
+Trần Trung Đức,MB2_QNI_ĐMX - Cẩm Phả
+Nguyễn Thị Huyền Trang,MB2_QNI_ĐMX - Mạo Khê
+Nguyễn Thị Quỳnh Liên,MB2_QNI_ĐMX - Cẩm Bình
+Bùi Thị Chiêm,MB2_QNI_ĐMX_Mini - Tiên Yên
+Hoàng Đông Quang,MB2_QNI_ĐMX_Mini - Tiên Yên
+Phạm Ngọc Quý,MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
+Nguyễn Đăng Tùng,MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
+Đào Thị Bích Thảo,MB2_QNI_ĐMX - Cẩm Bình
+Nguyễn Văn Minh,MB2_QNI_ĐMX - Cẩm Bình
+Bùi Kim Duy,MB2_QNI_ĐMX_Mini - Yên Giang (Quảng Yên)
+Ngô Vinh Quang,MB2_QNI_ĐMX - Cẩm Phả
+Bùi Hoài Nam,MB2_QNI_ĐMX - Cẩm Phả
+Lê Thị Thanh Huyền,MB2_QNI_ĐMX - Cẩm Phả
+Nguyễn Văn Toàn,MB2_QNI_ĐMX_Mini - Quảng Yên
+Trần Mạnh Toàn,MB2_QNI_ĐMX_Mini - Nam Khê
+Đỗ Văn Thanh,Samnec - An Lão
+Trương Thanh Sơn,Samnec - Quán Toan
+Nguyễn Thuỷ,Samnec - Thủy Nguyên
+Huyền,Samnec - Hồ Sen
+Đỗ Văn Tấn,Samnec - Hồ Sen
