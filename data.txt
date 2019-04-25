@@ -1,103 +1,119 @@
 Name,cuahang
-Lê Anh Trung , Mediamart Đông Triều
-Nguyễn Văn Hùng , Mediamart Đông Triều
-Nguyễn Thị Hồng Thảo , Mediamart Đông Triều
-Cao Thị Kim Oanh , Mediamart Đông Triều
-Trần Minh Hải , Mediamart Đông Triều
-Dương Thu Thảo , Mediamart Trung Tâm Giếng Đáy
-Phạm Việt Hà , Mediamart Trung Tâm Giếng Đáy
-Phạm Văn Long , Mediamart Trung Tâm Giếng Đáy
-Bùi Quang Đạt , Mediamart Mạo Khê
-Nguyễn Ngọc Minh , Mediamart Mạo Khê
-Vũ Thị Thùy Dung , Mediamart Mạo Khê
-Ngô Huy Thường , Mediamart Mạo Khê
-Lê Thị Thanh Hoa , Mediamart Trung Tâm Hạ Long
-Nguyễn Văn Hùng , Mediamart Trung Tâm Hạ Long
-Lê Thị Hồng Thắm , Mediamart Trung Tâm Hạ Long
-Nguyễn Ngọc Hải , Mediamart Trung Tâm Hạ Long
-Phạm Tiến Dũng , Mediamart Uông Bí
-Trần Thị Thắm , Mediamart Uông Bí
-Vũ Đại Phong , MediaMart An Dương
-Nguyễn Văn Hải , MediaMart An Dương
-Nguyễn Minh Tuấn , MediaMart An Dương
-Phạm Việt Tây ,  Mediamart Trung tâm Vân Đồn
-Nguyễn Thị Hòa ,  Mediamart Trung tâm Vân Đồn
-Vũ Việt Hà ,  Mediamart Trung tâm Vân Đồn
-Vương Quốc Quảng ,  Mediamart Mediamart Quảng Yên
-Nguyễn Thị Trang Anh ,  Mediamart Mediamart Quảng Yên
-Đàm Trung Hiếu ,  Mediamart Trung Tâm Cẩm Phả
-Lương Thị Lý Hoàng ,  Mediamart Trung Tâm Cẩm Phả
-Nguyễn Thanh Tùng ,  Mediamart Trung Tâm Cẩm Phả
-Vũ Thị Phương giang ,  Mediamart Trung Tâm Cẩm Phả 2
-Nghiêm Trọng Đạt ,  Mediamart Trung Tâm Cẩm Phả 2
-Nguyễn Tiến Đoàn ,  Mediamart Quán Toan 
-Hoàng Trung Minh ,  Mediamart Quán Toan 
-Nguyễn Trung Thành ,  Mediamart Quán Toan 
-Đàm Đức Quỳnh , Quảng Ninh - VHC
-Nguyễn Xuân Thư , Quảng Ninh - VHC
-Hoàng Hải Đăng , Quảng Ninh - VHC
-Phạm Thế Hùng , Quảng Ninh - VHC
-Phạm Trung Hoàn , Quảng Ninh - VHC
-Đinh Văn Phương , Quảng Ninh - VHC
-Trần Công Hữu , VHC - Hải Phòng
-Nguyễn Thành Trung , VHC - Hải Phòng
-Đàm Thị Phương Liên , VHC - Hải Phòng
-Nguyễn Quốc Hùng , VHC - Hải Phòng
-Nguyễn Tuấn Anh , Hải Dương - VHC
-Trịnh Nguyên Hải , Hải Dương - VHC
-Lê Văn Nam , Hải Dương - VHC
-Nguyễn Văn Hiếu , Hải Dương - VHC
-Nguyễn Thị Hằng , VinPro Hạ Long 
-Trần Bảo Trung , VinPro Hạ Long 
-Trần Quốc Đạt , VinPro Hạ Long 
-Nguyễn Thanh Tùng , VinPro Uông Bí
-Bùi Quang Duy , MB2_QNI_ĐMX_Mini - Quảng Yên
-Nguyễn Thanh Tuấn , MB2_QNI_ĐMX - Cẩm Phả
-Đoàn Văn Tú , MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
-Nguyễn Hoài Thu , MB2_QNI_ĐMX_Mini - Yên Giang (Quảng Yên)
-Bùi Quang Hải , MB2_QNI_ĐMX - Móng Cái
-Phạm Tuấn Anh , MB2_QNI_ĐMX_Mini - Nam Khê
-Nguyễn Thị Hồng Nhung , MB2_QNI_ĐMX - Uông Bí
-Vũ Văn Hiến , MB2_QNI_ĐMX - Bạch Đằng
-Vũ Khánh An , MB2_QNI_ĐMX_Mini - Tiên Yên
-Vũ Thị Diệu Ngọc , MB2_QNI_ĐMX - Mạo Khê
-Phan Phi Hùng , MB2_QNI_ĐMX - Uông Bí
-Đoàn Thị Khánh Thơ , MB2_QNI_ĐMX - Móng Cái
-Vũ Đình Thành , MB2_QNI_ĐMX_Mini - Cao Xanh
-Đặng Sơn Tùng , MB2_QNI_ĐMX_Mini - Cao Xanh
-Hoàng Ngọc Quang , MB2_QNI_ĐMX_Mini - Cao Xanh
-Mạc Tùng Lâm , MB2_QNI_ĐMX - Cẩm Bình
-Trần Thị Ngọc Yến , MB2_QNI_ĐMX_Mini - Hà Tu
-Bùi Thị Thảo , MB2_QNI_ĐMX_Mini - Hà Tu
-Nguyễn Thị Hường , MB2_QNI_ĐMX - Bạch Đằng
-Đỗ Bá Duy Tùng , MB2_QNI_ĐMX - Cẩm Bình
-Trần Trung Đức , MB2_QNI_ĐMX - Cẩm Phả
-Nguyễn Thị Huyền Trang , MB2_QNI_ĐMX - Mạo Khê
-Nguyễn Thị Quỳnh Liên , MB2_QNI_ĐMX - Cẩm Bình
-Bùi Thị Chiêm , MB2_QNI_ĐMX_Mini - Tiên Yên
-Hoàng Đông Quang , MB2_QNI_ĐMX_Mini - Tiên Yên
-Phạm Ngọc Quý , MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
-Nguyễn Đăng Tùng , MB2_QNI_ĐMX_Mini - Đông Xá (Vân Đồn)
-Đào Thị Bích Thảo , MB2_QNI_ĐMX - Cẩm Bình
-Nguyễn Văn Minh , MB2_QNI_ĐMX - Cẩm Bình
-Bùi Kim Duy , MB2_QNI_ĐMX_Mini - Yên Giang (Quảng Yên)
-Ngô Vinh Quang , MB2_QNI_ĐMX - Cẩm Phả
-Bùi Hoài Nam , MB2_QNI_ĐMX - Cẩm Phả
-Lê Thị Thanh Huyền , MB2_QNI_ĐMX - Cẩm Phả
-Nguyễn Văn Toàn , MB2_QNI_ĐMX_Mini - Quảng Yên
-Trần Mạnh Toàn , MB2_QNI_ĐMX_Mini - Nam Khê
-Đỗ Văn Thanh , Samnec - An Lão
-Trương Thanh Sơn , Samnec - Quán Toan
-Nguyễn Thuỷ , Samnec - Thủy Nguyên
-Huyền , Samnec - Hồ Sen
-Đỗ Văn Tấn , Samnec - Hồ Sen
-Ngô Vinh Quang,MB2_QNI_ĐMX - Cẩm Phả
-Bùi Hoài Nam,MB2_QNI_ĐMX - Cẩm Phả
-Lê Thị Thanh Huyền,MB2_QNI_ĐMX - Cẩm Phả
-Nguyễn Văn Toàn,MB2_QNI_ĐMX_Mini - Quảng Yên
-Trần Mạnh Toàn,MB2_QNI_ĐMX_Mini - Nam Khê
-Đỗ Văn Thanh,Samnec - An Lão
-Trương Thanh Sơn,Samnec - Quán Toan
-Nguyễn Thuỷ,Samnec - Thủy Nguyên
-Huyền,Samnec - Hồ Sen
-Đỗ Văn Tấn,Samnec - Hồ Sen
+Nguyễn Thành Quyết,Nguyễn Kim Đà Nẵng
+Nguyễn Văn Thôi,Nguyễn Kim Đà Nẵng
+Nguyễn Văn Thành,Nguyễn Kim Đà Nẵng
+Bùi Phước Tuấn,Nguyễn Kim Đà Nẵng
+Trần Đức Luận,Nguyễn Kim Đà Nẵng
+Nguyễn Vũ Khoa Văn,Nguyễn Kim Đà Nẵng
+Nguyễn Hoài Bảo,Nguyễn Kim Đà Nẵng
+Trần Thanh Trì,Nguyễn Kim Đà Nẵng
+Biện Hồ Trung Nhiên,Nguyễn Kim Đà Nẵng
+Mai Văn Bình,Nguyễn Kim Đà Nẵng
+Ngô Đình Vũ,Nguyễn Kim Đà Nẵng
+Phan Thế Công,Nguyễn Kim Đà Nẵng
+Phạm Văn Đức,Nguyễn Kim Đà Nẵng
+Trần Trung Phương,Nguyễn Kim Đà Nẵng
+Dương Xuân Phú,Vinpro Đà Nẵng
+Nguyễn Trần Quang Dũng,Vinpro Đà Nẵng
+Cao Thị Mỹ Phúc,Vinpro Đà Nẵng
+Võ Thị Chính,Vinpro Đà Nẵng
+Huỳnh Kim Sơn,Vinpro Đà Nẵng
+Lê Thị Cẩm Ly,Vinpro Đà Nẵng
+Đặng Khánh Thọ,Vinpro Đà Nẵng
+Lê Thị Ánh Quyền,Vinpro Đà Nẵng
+Phan Thị Hòa Thuận,Vinpro Đà Nẵng
+Trần Thoại Mỹ,Vinpro Đà Nẵng
+HỒ ANH KHOA,Cao Phong Đà Nẵng 3
+TRẦN VŨ XUÂN,Cao Phong Đà Nẵng 3
+NGUYỄN VĂN VŨ BẢO,Cao Phong Đà Nẵng 3
+BÙI PHẠM PHƯƠNG THẢO,Cao Phong Đà Nẵng 3
+LÊ HỮU LÂM,Cao Phong Đà Nẵng 3
+NGUYỄN MINH CHÂU,Cao Phong Đà Nẵng 3
+Nguyễn Văn Sơn,Cao Phong Đà Nẵng 2
+Trần Phước Quang,Cao Phong Đà Nẵng 2
+Lê Bá Thắng,Cao Phong Đà Nẵng 2
+Lê Cường,Cao Phong Đà Nẵng 2
+Nguyễn Ngọc Thảo,Cao Phong Đà Nẵng 2
+PHAN THANH HUY,Cao Phong Đà Nẵng 1
+NGUYỄN THỊ HÒA,Cao Phong Đà Nẵng 1
+NGUYỄN MINH TÂM,Cao Phong Đà Nẵng 1
+NGUYỄN THỊ HỒNG NHUNG,Cao Phong Đà Nẵng 1
+ĐÕ ANH TUÂN,Cao Phong Đà Nẵng 1
+TRẦN VĂN SƠN,Cao Phong Đà Nẵng 1
+Phan Văn Hoàn Vĩnh,Cao Phong Quảng Nam
+Trương Minh Sinh,Cao Phong Quảng Nam
+Lê Tấn Vĩnh,Cao Phong Quảng Nam
+Tưởng Xuân Ninh,Cao Phong Quảng Nam
+Lâm Thị Thu Hyên,Cao Phong Quảng Nam
+Nguyễn Thị Thanh Ngân,Cao Phong Quảng Nam
+Nguyễn Kim Tình,Cao Phong Quảng Nam
+Trương Thị Lan Vy,Cao Phong Quảng Nam
+Nguyễn Tấn Tuyên,Cao Phong Quảng Nam
+Nguyễn Văn Tư,Cao Phong Quảng Nam
+Đỗ Xuân Hùng,BTB_DNA_ĐMX - Lê Duẩn (Hải Châu)
+Trần Đình Tuấn,BTB_DNA_ĐMX - Tôn Đức Thắng
+Đặng Văn Đôn,BTB_DNA_ĐMX - 727 Nguyễn Hữu Thọ
+Ngô Đức Thặng,Văn Phòng Miền Bắc Trung Bộ B
+Hà Minh Tuấn,BTB_DNA_ĐMX - Điện Biên Phủ
+Võ Hà Quân,BTB_DNA_ĐMX - Tôn Đức Thắng
+Nguyễn Như Tiểu Ngọc,BTB_DNA_ĐMX - 203 Điện Biên Phủ
+Trương Thanh Tuấn,BTB_DNA_ĐMX - Điện Biên Phủ
+Huỳnh Đăng Minh,BTB_DNA_ĐMX - Lê Duẩn (Hải Châu)
+Phạm Mai Linh,BTB_DNA_ĐMX_Mini - 116 Tôn Đức Thắng
+Nguyễn Thị Thanh Nhàn,BTB_DNA_ĐMX_Mini - Lê Văn Hiến
+Phạm Khánh Linh,BTB_DNA_ĐMX - Điện Biên Phủ
+Phan Văn Thịnh,BTB_DNA_ĐMX - 203 Điện Biên Phủ
+Phạm Ngọc Vũ,BTB_DNA_ĐMX - 203 Điện Biên Phủ
+Lê Văn Vũ,BTB_DNA_ĐMX - Tôn Đức Thắng
+Nguyễn Trọng Hợi,BTB_DNA_ĐMX - Lê Duẩn (Hải Châu)
+Nguyễn Kim Khánh,BTB_DNA_ĐMX - Nguyễn Văn Linh (Đà Nẵng)
+Nguyễn Văn Lam Vũ,BTB_DNA_ĐMX - Võ Văn Kiệt
+Vũ Thị Huyền Trang,BTB_DNA_ĐMX - Võ Văn Kiệt
+Trương Công Hòa,BTB_DNA_ĐMX_Mini - 116 Tôn Đức Thắng
+Lê Thị Kim Thoa,BTB_DNA_ĐMX - Lê Duẩn (Hải Châu)
+Mai Văn Trí,BTB_DNA_ĐMX_Mini - Lê Văn Hiến
+Nguyễn Minh Cảnh,BTB_DNA_ĐMX - 727 Nguyễn Hữu Thọ
+Hồ Thị Thùy Dung,BTB_DNA_ĐMX - 727 Nguyễn Hữu Thọ
+Trần Xuân Lộc,BTB_DNA_ĐMX - 727 Nguyễn Hữu Thọ
+Trần Thị Hồng,BTB_DNA_ĐMX_Mini - Lê Văn Hiến
+Nguyễn Thị Ái Mỹ,BTB_DNA_ĐMX - Võ Văn Kiệt
+Nguyễn Minh Hậu,BTB_DNA_ĐMX - Lê Duẩn (Hải Châu)
+Hồ Phi Hải,BTB_DNA_ĐMX - Điện Biên Phủ
+Trần Xuân Vũ,BTB_DNA_ĐMX - Nguyễn Văn Linh (Đà Nẵng)
+Lê Văn Thành Lam,BTB_DNA_ĐMX_Mini - 7 Nguyễn Văn Linh
+Mai Thị Thu Hà,BTB_DNA_ĐMX_Mini - 116 Tôn Đức Thắng
+Đinh Văn Long,BTB_DNA_ĐMX_Mini - Trường Chinh
+Lê Anh Tuấn,BTB_DNA_ĐMX_Mini - 116 Tôn Đức Thắng
+Võ Mạnh Hợp,BTB_DNA_ĐMX - Tôn Đức Thắng
+Đặng Thị Phương,BTB_DNA_ĐMX - Võ Văn Kiệt
+Nguyễn Thị Minh Hiền,BTB_DNA_ĐMX_Mini - 7 Nguyễn Văn Linh
+Huỳnh Thanh Bảo,BTB_DNA_ĐMX - Nguyễn Văn Linh (Đà Nẵng)
+Nguyễn Lan Hương,BTB_DNA_ĐMX_Mini - 7 Nguyễn Văn Linh
+Dương Thanh Minh,Văn Phòng Miền Bắc Trung Bộ B
+Đặng Duy Nhất,BTB_DNA_ĐMX_Mini - 7 Nguyễn Văn Linh
+Trương Thị Hoa,BTB_DNA_ĐMX_Mini - Trường Chinh
+Lê Đức Nghĩa,BTB_DNA_ĐMX_Mini - Lê Văn Hiến
+Huỳnh Bá Cường,BTB_DNA_ĐMX - Nguyễn Văn Linh (Đà Nẵng)
+TRẦN PHƯỚC HƯNG,VIETTRONIMEX 1
+VÕ NGỌC HẢI,VIETTRONIMEX 1
+HỒ THỊ NHA TRANG,VIETTRONIMEX 1
+PHẠM VĂN VŨ,VIETTRONIMEX 1
+DƯƠNG VĂN LỘC,VIETTRONIMEX 2
+NGUYỄN VĂN NHIỆM,VIETTRONIMEX 2
+TRẦN THỊ BÍCH HẠNH,VIETTRONIMEX 2
+LÊ THỊ THẢO,VIETTRONIMEX 2
+ĐOÀN VĂN QUỐC,VIETTRONIMEX 2
+TRƯƠNG QUỐC HẢI,VIETTRONIMEX 3
+HUỲNH THỊ THANH TÂM,VIETTRONIMEX 3
+CAO XUÂN THÀNH,VIETTRONIMEX 3
+NGUYỄN HỮU CHÍNH,VIETTRONIMEX 3
+NGUYỄN THỊ LINH,VIETTRONIMEX 3
+BÙI DANH TRỌNG,VIETTRONIMEX 3
+PHAN VĂN NGỌC,VIETTRONIMEX 4
+NGUYỄN ĐỨC HUY,VIETTRONIMEX 4
+HOÀNG ĐỨC LỢI,VIETTRONIMEX 4
+MAI VĂN CHUNG,VIETTRONIMEX 4
+NGUYỄN NHẬT VĨNH,VIETTRONIMEX 4
+Nguyễn Thị Thu,Việt Tuấn
+Nguyễn Xuân Lộc,Việt Tuấn
+Trương Nguyễn Hoài Phương,Việt Tuấn
